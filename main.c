@@ -23,4 +23,26 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
+void maior ( float temperatura[10]){
+	float maior =0;
+	int i;
+	
+	for (i=0; i<10; i++){
+		if ( temperatura[i]> maior){
+		maior = temperatura [i];
+		}
+	}
+	printf("Maior temperatura = %f\n", maior);
+}
 
+void menor (float temperatura[10]){
+	float menor = temperatura [0];
+	int i;
+	
+	for (i=0; i<10; i++){
+		if ( temperatura[i] < menor){
+		menor = temperatura [i];
+		}
+		}
+		printf("Menor temperatura = %f\n", menor);
+	}
