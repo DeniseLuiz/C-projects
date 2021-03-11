@@ -3,7 +3,8 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-
+void maior ( float temperatura [10]);
+void menor ( float temperatura [10]);
 
 int main(int argc, char *argv[]) {
 	
