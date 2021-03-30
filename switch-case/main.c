@@ -1,4 +1,15 @@
- \n 2 = stop\n 3 = pause\n 4 = FF\n 5 = rew\n");
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char *argv[]) 
+{
+// Definindo variável:
+int acao;
+
+// Solicitando aos usuários:
+    printf("Pressione a tecla desejada sendo:\n 1 = play \n 2 = stop\n 3 = pause\n 4 = FF\n 5 = rew\n");
 	scanf("%i", &acao);
 
 switch (acao){
