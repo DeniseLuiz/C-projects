@@ -9,6 +9,9 @@ int main(int argc, char *argv[])
 int acao;
 
 // Solicitando aos usuários:
+//Simulando opções de um player 
+	printf("*Simulando opções de um player*/n");
+
     printf("Pressione a tecla desejada sendo:\n 1 = play \n 2 = stop\n 3 = pause\n 4 = FF\n 5 = rew\n");
 	scanf("%i", &acao);
 
