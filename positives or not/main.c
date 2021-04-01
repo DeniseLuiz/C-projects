@@ -16,7 +16,18 @@ int main(int argc, char *argv[]) {
 		
 		printf ("Entre com o valor %i\n", i+1);
 		scanf ("%i", &vetor[i]);
+		
+		if (vetor[i] >0){
+			pos++;
+		}else if (vetor[i]<0){
+			neg++;
+		}else{
+			nul++;
+		}
+		}
 
+	
+		return 0;
 	}
 	
 	
