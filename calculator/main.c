@@ -14,16 +14,16 @@ int main(int argc, char *argv[])
 do{
 	
 	// Solicitando ao usuário 
-	printf("Calculadora\n");
+	printf("---------> Calculadora <-----------\n");
 	
-	printf("Entre com o primeiro valor inteiro");
+	printf("Entre com o primeiro valor inteiro\n");
 	scanf("%i\n",&num1);
 
-	printf("Entre com o segundo valor inteiro");
+	printf("Entre com o segundo valor inteiro\n");
 	scanf("%i\n",&num2);
 	
 	fflush(stdin);
-	printf("Entre com o sinal de operacao +, -, * ou /:");
+	printf("Entre com o sinal de operacao +, -, * ou /:\n");
 	scanf("%c",&operacao);
 	
 	//Aplicando switch
