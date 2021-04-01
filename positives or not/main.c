@@ -29,7 +29,6 @@ int main(int argc, char *argv[]) {
 	printf ("negativos = %i\n", neg);
 	printf ("Nulos = %i\n", nul);
 	
-	
 		return 0;
 	}
 	
