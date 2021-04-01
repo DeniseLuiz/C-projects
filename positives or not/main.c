@@ -25,7 +25,10 @@ int main(int argc, char *argv[]) {
 			nul++;
 		}
 		}
-
+	printf ("positivos = %i\n", pos);
+	printf ("negativos = %i\n", neg);
+	printf ("Nulos = %i\n", nul);
+	
 	
 		return 0;
 	}
