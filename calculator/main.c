@@ -28,6 +28,28 @@ do{
 	
 	//Aplicando switch
 	
+	
+	switch (operacao)
+	{
+		case '+':
+			printf("%i\n", num1+num2 );
+			break;
+			
+		case '-':
+			printf("%i\n", num1-num2);
+			break;
+		
+		case '*':
+			printf("i%\n", num1*num2);
+			break;
+			
+		case '/':
+			printf("%i\n", num1/num2);
+			break;
+		default:
+			printf("Operacao invalida\n");
+			break;
+	}
 }
  while (cont ==1);{
 	printf("Deseja continuar? 1 - sim ou 2 - nao\n");
@@ -36,7 +58,5 @@ do{
 				//{
 			//	printf("Recomecando");
 
-	
-	
 	return 0;
 }
