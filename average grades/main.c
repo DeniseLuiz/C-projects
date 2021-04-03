@@ -23,7 +23,6 @@ int main(int argc, char *argv[]) {
 		
 		printf ("Entre com a nota 2 do aluno %i\n", i+1);
 		scanf ("%f", &notas[i][1]);	
-			
 	}
 
 	for (i=0; i<5; i++){
