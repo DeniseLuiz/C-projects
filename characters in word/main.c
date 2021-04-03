@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 	
 	fflush (stdin);
 	printf ("Entre com o caracter desejado\n");
-	scanf ("% c", & letra);
+	scanf ("%c", & letra);
 	
 	for (i=0; palavra[i] !='\0'; i++)
 	{
