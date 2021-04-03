@@ -26,7 +26,6 @@ int main(int argc, char *argv[]) {
 		}
 		
 	}
-	
 		printf ("A quantidade de vezes que o caracter aparece eh %i", soma);
 	
 	return 0;
