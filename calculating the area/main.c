@@ -16,5 +16,12 @@ int main(int argc, char *argv[])
  	
  	printf("Digite o valor da altura");
  	scanf ("%i", &altura);
- 
+ 	
+ 	// Operação matemática:
+ 	area = base*altura;
+ 	
+ 	
+ 	// Imprimindo na tela o resultado final:
+ 	printf(" O valor da area do retangulo = %i \n", area );
+	return 0;
 }
