@@ -28,8 +28,8 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 3. \n;
 4. cálculo com váriaveis.
 ```
-
 <br>
+
 - [x] Calcutating the hypotenuse
 
 > O programa recebe 2 valores float e retorna o cálculo da hipotenusa.
@@ -51,8 +51,8 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 3. break;
 4. condicional while.
 ```
-
 <br>
+
 - [x] Characters in word
 
 > O programa reecebe uma string e um caracterer. Como saída o programa exibe a quantidade de vezes que o caracter aparece na palavra.
