@@ -1,7 +1,7 @@
 # Códigos em C
-### Projetos desenvolvidos durante a disciplina de Programação de computadores I do curso de Engenharia Eletrônica do IFSP
+Projetos desenvolvidos durante a disciplina de Programação de computadores I do curso de Engenharia Eletrônica do IFSP
 
-> Todos o códigos foram executados utilizando a IDE Dev C++.
+> Todos os programas foram desenvolvidos utilizando a IDE Dev C++.
 
 ## 💻 Projetos:
 
