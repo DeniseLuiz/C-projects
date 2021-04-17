@@ -3,7 +3,9 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 
 > Todos os programas foram desenvolvidos utilizando a IDE Dev C++.
 
+
 ## 💻 Projetos:
+
 
 - [x] Average grades
 
@@ -14,6 +16,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. laço for; 
 3. condicional IF.
 ```
+
 
 - [x] Calcutating the area
 
@@ -26,6 +29,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 4. cálculo com váriaveis.
 ```
 
+
 - [x] Calcutating the hypotenuse
 
 > O programa recebe 2 valores float e retorna o cálculo da hipotenusa.
@@ -35,6 +39,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. sqrt;
 3. pow.
 ```
+
 
 - [x] Calculator
 
@@ -47,6 +52,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 4. condicional while.
 ```
 
+
 - [x] Characters in word
 
 > O programa reecebe uma string e um caracterer. Como saída o programa exibe a quantidade de vezes que o caracter aparece na palavra.
@@ -57,6 +63,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 3. condicional if;
 ```
 
+
 - [x] external functions
 
 > O programa recebe 10 valores float. Como saída o programa exibe a maior e menor temperatura apresentada.
@@ -66,6 +73,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. laço for;
 3. função externa com retono void, tendo como parâmetro um vetor;
 ```
+
 
 - [x] switch case
 
@@ -80,6 +88,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 1. switch case ;
 2. incremento;
 ```
+
 
 - [x] positive or not
 
