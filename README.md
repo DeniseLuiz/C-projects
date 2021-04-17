@@ -16,7 +16,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. laço for; 
 3. condicional IF.
 ```
-
+<br>
 
 - [x] Calcutating the area
 
@@ -29,7 +29,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 4. cálculo com váriaveis.
 ```
 
-
+<br>
 - [x] Calcutating the hypotenuse
 
 > O programa recebe 2 valores float e retorna o cálculo da hipotenusa.
@@ -39,7 +39,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. sqrt;
 3. pow.
 ```
-
+<br>
 
 - [x] Calculator
 
@@ -52,7 +52,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 4. condicional while.
 ```
 
-
+<br>
 - [x] Characters in word
 
 > O programa reecebe uma string e um caracterer. Como saída o programa exibe a quantidade de vezes que o caracter aparece na palavra.
@@ -62,7 +62,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. laço for;
 3. condicional if;
 ```
-
+<br>
 
 - [x] external functions
 
@@ -73,7 +73,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 2. laço for;
 3. função externa com retono void, tendo como parâmetro um vetor;
 ```
-
+<br>
 
 - [x] switch case
 
@@ -88,7 +88,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 1. switch case ;
 2. incremento;
 ```
-
+<br>
 
 - [x] positive or not
 
