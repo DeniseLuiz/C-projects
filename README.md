@@ -5,7 +5,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 
 
 ## 💻 Projetos:
-
+<br>
 
 - [x] Average grades
 
