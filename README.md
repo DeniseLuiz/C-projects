@@ -7,7 +7,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ## 💻 Projetos:
 <br>
 
-- [x] Average grades
+- [x] Average grades <a href=“https://github.com/DeniseLuiz/projects-ifsp/tree/main/average%20grades“>Repositório</a>
 
 > O programa armazena 5 nomes (40) e 5 notas do tipo float. Como saída apresenta a maior e menor nota com seus respectivos alunos.
 
