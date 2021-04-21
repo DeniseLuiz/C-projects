@@ -18,7 +18,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] Calcutating the area
+- [x] [Calcutating the area](https://github.com/DeniseLuiz/projects-ifsp/tree/main/calculating%20the%20area)
 
 > O programa recebe 2 valores inteiros e retorna o cálculo de área x altura.
 
@@ -30,7 +30,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] Calcutating the hypotenuse
+- [x] [Calcutating the hypotenuse](https://github.com/DeniseLuiz/projects-ifsp/tree/main/calculating%20the%20hypotenuse)
 
 > O programa recebe 2 valores float e retorna o cálculo da hipotenusa.
 
@@ -41,7 +41,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] Calculator
+- [x] [Calculator](https://github.com/DeniseLuiz/projects-ifsp/tree/main/calculator)
 
 > O programa recebe 2 valores inteiros e um caracter de operação matemática. Como saída, o programa exibe a operação escolhida entre os inteiros digitados. O programa espera a resposta do usuário para sair ou continuar usando a calculadora.
 
@@ -53,7 +53,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] Characters in word
+- [x] [Characters in word](https://github.com/DeniseLuiz/projects-ifsp/tree/main/characters%20in%20word)
 
 > O programa reecebe uma string e um caracterer. Como saída o programa exibe a quantidade de vezes que o caracter aparece na palavra.
 
@@ -64,7 +64,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] external functions
+- [x] [external functions](https://github.com/DeniseLuiz/projects-ifsp/tree/main/external%20functions)
 
 > O programa recebe 10 valores float. Como saída o programa exibe a maior e menor temperatura apresentada.
 
@@ -75,7 +75,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] switch case
+- [x] [switch case](https://github.com/DeniseLuiz/projects-ifsp/tree/main/switch-case)
 
 > O programa simula as opções de um player:
 > 1 -> Play
@@ -90,7 +90,7 @@ Projetos desenvolvidos durante a disciplina de Programação de computadores I d
 ```
 <br>
 
-- [x] positive or not
+- [x] [positive or not](https://github.com/DeniseLuiz/projects-ifsp/tree/main/positives%20or%20not)
 
 > O programa recebe 10 valores do tipo int. Como saída o programa exibe a quantidade de valores positivos, negativos e nulos.
 
